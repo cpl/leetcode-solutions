@@ -13,6 +13,7 @@ Leetcode problems solutions in C (not C++).
 | Medium     | Validate IP Address                | [Link][7P]  | [Link][7S]   |
 | Easy       | Valid Parentheses                  | [Link][8P]  | [Link][8S]   | Macro stack
 | Hard       | LRU Cache                          | [Link][9P]  | [Link][9S]   | Passes 13/18 tests, no hashmap
+| Easy       | Reverse Bits                       | [Link][10P] | [Link][10S]  | Possible optimisation with iteration, depends on `arch`
 
 
 [1P]: https://leetcode.com/problems/string-to-integer-atoi/description/
@@ -33,3 +34,5 @@ Leetcode problems solutions in C (not C++).
 [8S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_validparentheses.c
 [9P]: https://leetcode.com/problems/lru-cache/description/
 [9S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_lru_cache.c
+[10P]: https://leetcode.com/problems/reverse-bits/description/
+[10S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_reverse_bits.c
