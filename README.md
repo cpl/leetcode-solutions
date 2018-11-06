@@ -2,7 +2,7 @@
 Leetcode problems solutions in C (not C++).
 
 ![hard](https://img.shields.io/badge/HARD-3-red.svg)
-![medium](https://img.shields.io/badge/MEDIUM-4-yellow.svg)
+![medium](https://img.shields.io/badge/MEDIUM-5-yellow.svg)
 ![easy](https://img.shields.io/badge/EASY-7-green.svg)
 
 
@@ -22,6 +22,7 @@ Leetcode problems solutions in C (not C++).
 | Hard       | Valid Number                       | [Link][12P] | [Link][12S]  |
 | Easy       | Power of Two                       | [Link][13P] | [Link][13S]  |
 | Easy       | To Lower Case                      | [Link][14P] | [Link][14S]  |
+| Medium     | Reverse Polish Notation            | [Link][15P] | [Link][15S]  | Can be improved with in place stack operations instead of literal POP/PUSH operations
 
 
 [1P]: https://leetcode.com/problems/string-to-integer-atoi/description/
@@ -52,3 +53,5 @@ Leetcode problems solutions in C (not C++).
 [13S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_pow_of_two.c
 [14P]: https://leetcode.com/problems/to-lower-case/description/
 [14S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_to_lower.c
+[15P]: https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
+[15S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_reverse_polish_notation.c
