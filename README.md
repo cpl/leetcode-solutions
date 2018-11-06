@@ -3,7 +3,7 @@ Leetcode problems solutions in C (not C++).
 
 ![hard](https://img.shields.io/badge/HARD-3-red.svg)
 ![medium](https://img.shields.io/badge/MEDIUM-5-yellow.svg)
-![easy](https://img.shields.io/badge/EASY-7-green.svg)
+![easy](https://img.shields.io/badge/EASY-8-green.svg)
 
 
 | Difficulty | Name                               | Problem     | Solution     | Note | 
@@ -23,6 +23,7 @@ Leetcode problems solutions in C (not C++).
 | Easy       | Power of Two                       | [Link][13P] | [Link][13S]  |
 | Easy       | To Lower Case                      | [Link][14P] | [Link][14S]  |
 | Medium     | Reverse Polish Notation            | [Link][15P] | [Link][15S]  | Can be improved with in place stack operations instead of literal POP/PUSH operations
+| Easy       | Ransom Note                        | [Link][16P] | [Link][16S]  |
 
 
 [1P]: https://leetcode.com/problems/string-to-integer-atoi/description/
@@ -55,3 +56,5 @@ Leetcode problems solutions in C (not C++).
 [14S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_to_lower.c
 [15P]: https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
 [15S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_reverse_polish_notation.c
+[16P]: https://leetcode.com/problems/ransom-note/description/
+[16S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_ransom_note.c
