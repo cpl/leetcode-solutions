@@ -15,6 +15,7 @@ Leetcode problems solutions in C (not C++).
 | Hard       | LRU Cache                          | [Link][9P]  | [Link][9S]   | Passes 13/18 tests, no hashmap
 | Easy       | Reverse Bits                       | [Link][10P] | [Link][10S]  | Possible optimisation with iteration, depends on `arch`
 | Easy       | Min Stack                          | [Link][11P] | [Link][11S]  | 12ms, fastest possible
+| Hard       | Valid Number                       | [Link][12P] | [Link][12S]  |
 
 
 [1P]: https://leetcode.com/problems/string-to-integer-atoi/description/
@@ -39,4 +40,6 @@ Leetcode problems solutions in C (not C++).
 [10S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_reverse_bits.c
 [11P]: https://leetcode.com/problems/min-stack/description/
 [11S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_min_stack.c
+[12P]: https://leetcode.com/problems/valid-number/description/
+[12S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_valid_number.c
 
