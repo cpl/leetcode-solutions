@@ -1,6 +1,10 @@
 # LeetCode Solutions
 Leetcode problems solutions in C (not C++).
 
+![hard](https://img.shields.io/badge/HARD-3-red.svg)
+![medium](https://img.shields.io/badge/MEDIUM-4-yellow.svg)
+![easy](https://img.shields.io/badge/EASY-5-green.svg)
+
 
 | Difficulty | Name                               | Problem     | Solution     | Note | 
 | :--------- | :--------------------------------- | :---------: | :----------: | :--- |
