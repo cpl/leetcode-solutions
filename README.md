@@ -3,7 +3,7 @@ Leetcode problems solutions in C (not C++).
 
 ![hard](https://img.shields.io/badge/HARD-3-red.svg)
 ![medium](https://img.shields.io/badge/MEDIUM-4-yellow.svg)
-![easy](https://img.shields.io/badge/EASY-6-green.svg)
+![easy](https://img.shields.io/badge/EASY-7-green.svg)
 
 
 | Difficulty | Name                               | Problem     | Solution     | Note | 
@@ -21,6 +21,7 @@ Leetcode problems solutions in C (not C++).
 | Easy       | Min Stack                          | [Link][11P] | [Link][11S]  | 12ms, fastest possible
 | Hard       | Valid Number                       | [Link][12P] | [Link][12S]  |
 | Easy       | Power of Two                       | [Link][13P] | [Link][13S]  |
+| Easy       | To Lower Case                      | [Link][14P] | [Link][14S]  |
 
 
 [1P]: https://leetcode.com/problems/string-to-integer-atoi/description/
@@ -49,4 +50,5 @@ Leetcode problems solutions in C (not C++).
 [12S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_valid_number.c
 [13P]: https://leetcode.com/problems/power-of-two/description/
 [13S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_pow_of_two.c
-
+[14P]: https://leetcode.com/problems/to-lower-case/description/
+[14S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_to_lower.c
