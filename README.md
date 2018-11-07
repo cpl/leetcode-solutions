@@ -24,6 +24,7 @@ Leetcode problems solutions in C (not C++).
 | Easy       | To Lower Case                      | [Link][14P] | [Link][14S]  |
 | Medium     | Reverse Polish Notation            | [Link][15P] | [Link][15S]  | Can be improved with in place stack operations instead of literal POP/PUSH operations
 | Easy       | Ransom Note                        | [Link][16P] | [Link][16S]  |
+| Easy       | Binary Search                      | [Link][17P] | [Link][17S]  |
 
 
 [1P]: https://leetcode.com/problems/string-to-integer-atoi/description/
@@ -58,3 +59,6 @@ Leetcode problems solutions in C (not C++).
 [15S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_reverse_polish_notation.c
 [16P]: https://leetcode.com/problems/ransom-note/description/
 [16S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_ransom_note.c
+[17P]: https://leetcode.com/problems/binary-search/description/
+[17S]: https://github.com/thee-engineer/leetcode-solutions/blob/master/_binary_search.c
+
