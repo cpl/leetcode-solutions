@@ -3,7 +3,7 @@ Leetcode problems solutions in C (not C++).
 
 ![hard](https://img.shields.io/badge/HARD-3-red.svg)
 ![medium](https://img.shields.io/badge/MEDIUM-5-yellow.svg)
-![easy](https://img.shields.io/badge/EASY-8-green.svg)
+![easy](https://img.shields.io/badge/EASY-9-green.svg)
 
 
 | Difficulty | Name                               | Problem     | Solution     | Note | 
